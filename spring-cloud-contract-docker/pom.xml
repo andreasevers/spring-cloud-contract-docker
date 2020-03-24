@@ -124,7 +124,7 @@
 					<repository>${docker.registry.organization}/spring-cloud-contract
 					</repository>
 					<tag>${project.version}</tag>
-					<username>andreasevers</username>
+					<username>somethingsomething</username>
 					<password>noneOfYourBusiness</password>
 					<build>
 						<noCache>true</noCache>
